@@ -7,4 +7,4 @@ Independent researcher and writer on AI systems, coherence, and runtime regulati
 
 
 ## About
-This site lists my published articles and ongoing conceptual work.
+[View About Me](about.md)
