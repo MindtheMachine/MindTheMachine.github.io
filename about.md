@@ -18,12 +18,10 @@ These ideas are written to invite discussion, particularly with teams building, 
 
 ## Profiles and references
 
-**Professional background and publications**  
-:contentReference[oaicite:0]{index=0}  
+**Professional background and publications**   
 https://www.linkedin.com/in/carijit/
 
-**Academic papers and research record**  
-:contentReference[oaicite:1]{index=1}  
+**Academic papers and research record**   
 https://orcid.org/0009-0006-5658-4449
 
 My writing is indexed on this site, my academic papers are listed via ORCID, and my professional background and publications are summarized on LinkedIn.
