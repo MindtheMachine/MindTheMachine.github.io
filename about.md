@@ -1,6 +1,13 @@
-# Mind the Machine
+---
+layout: default
+title: About — Arijit Chatterjee
+description: Background, writing focus, and research interests of Arijit Chatterjee, author of Mind the Machine.
+canonical_url: https://mindthemachine.github.io/about.html
+---
 
-Mind the Machine is a space for thinking about artificial intelligence before it thinks too much — or too confidently.
+# About Arijit Chatterjee
+
+**Mind the Machine** is a space for thinking about artificial intelligence before it thinks too much — or too confidently.
 
 I am a Business Intelligence (BI) Architect with 18+ years of experience delivering enterprise-scale BI and analytics systems across domains such as Finance, CRM, and Marketing.
 
@@ -16,12 +23,14 @@ These ideas are written to invite discussion, particularly with teams building, 
 
 ---
 
-## Profiles and references
+## Profiles and References
 
-**Professional background and publications**   
+**Professional background and publications**  
 https://www.linkedin.com/in/carijit/
 
-**Academic papers and research record**   
+**Academic papers and research record (ORCID)**  
 https://orcid.org/0009-0006-5658-4449
 
-My writing is indexed on this site, my academic papers are listed via ORCID, and my professional background and publications are summarized on LinkedIn.
+My public writing is indexed on this site.  
+My academic papers are listed via ORCID.  
+My professional background and publications are summarized on LinkedIn.
