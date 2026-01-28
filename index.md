@@ -24,6 +24,9 @@ A complete list of my published articles is maintained here:
 
 Formal academic and technical research conducted alongside — and independently from — my public writing.
 
+- **Inference-Time Commitment Shaping: A Framework for Quiet Failure Mitigation in LLM Systems**  
+  DOI: https://zenodo.org/records/18401074
+  
 - **Control Probe: Inference-Time Commitment Control**  
   DOI: https://doi.org/10.5281/zenodo.18352963
 
