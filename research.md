@@ -20,6 +20,7 @@ DOI: <https://zenodo.org/records/18401074>
 
 A technical paper proposing a conceptual and architectural framework for regulating commitment strength in large language model outputs. 
 
+---
 
 ### Control Probe: Inference-Time Commitment Control
 DOI: <https://doi.org/10.5281/zenodo.18352963>
