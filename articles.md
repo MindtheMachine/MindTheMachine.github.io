@@ -8,7 +8,6 @@ All links below point to externally published articles (Towards AI on Medium).
 ## The Stability Layer: Governing Quiet Failures at Inference Time
 Explains Why reliable AI systems need to regulate how answers are selected, when commitment is allowed, and how strongly conclusions are expressed
 Published in Towards AI  
-
 [Read article](https://pub.towardsai.net/the-stability-layer-governing-quiet-failures-at-inference-time-fce3c47cfcf0)
 
 ---
