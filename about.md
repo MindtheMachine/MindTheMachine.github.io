@@ -2,7 +2,7 @@
 layout: default
 title: About — Arijit Chatterjee
 description: Background, writing focus, and research interests of Arijit Chatterjee, author of Mind the Machine.
-canonical_url: https://mindthemachine.github.io/about.html
+canonical_url: <https://mindthemachine.github.io/about.html>
 ---
 
 # About Arijit Chatterjee
@@ -26,10 +26,10 @@ These ideas are written to invite discussion, particularly with teams building, 
 ## Profiles and References
 
 **Professional background and publications**  
-https://www.linkedin.com/in/carijit/
+<https://www.linkedin.com/in/carijit/>
 
 **Academic papers and research record (ORCID)**  
-https://orcid.org/0009-0006-5658-4449
+<https://orcid.org/0009-0006-5658-4449>
 
 My public writing is indexed on this site.  
 My academic papers are listed via ORCID.  
