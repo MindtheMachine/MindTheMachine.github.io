@@ -25,16 +25,16 @@ A complete list of my published articles is maintained here:
 Formal academic and technical research conducted alongside — and independently from — my public writing.
 
 - **Inference-Time Commitment Shaping: A Framework for Quiet Failure Mitigation in LLM Systems**  
-  DOI: https://doi.org/10.5281/zenodo.18401073
+  DOI: <https://doi.org/10.5281/zenodo.18401073>
   
 - **Control Probe: Inference-Time Commitment Control**  
-  DOI: https://doi.org/10.5281/zenodo.18352963
+  DOI: <https://doi.org/10.5281/zenodo.18352963>
 
 - **Evaluative Coherence Regulation (ECR): An Inference-Time Stability Layer for Enterprise LLMs**  
-  DOI: https://doi.org/10.5281/zenodo.18353477
+  DOI: <https://doi.org/10.5281/zenodo.18353477>
 
 - **Need for More Academic R&D in India**  
-  DOI: https://doi.org/10.2139/ssrn.1097502
+  DOI: <https://doi.org/10.2139/ssrn.1097502>
 
 [View full research details](research.md)
 
@@ -42,7 +42,7 @@ Formal academic and technical research conducted alongside — and independently
 ## Code
 
 A complete code of the IFCS, ECR and Control Probe Type-1 and Type-2 is available here:  
-https://github.com/MindtheMachine/IFCS-Implementation
+<https://github.com/MindtheMachine/IFCS-Implementation>
 
 ---
 ## About
