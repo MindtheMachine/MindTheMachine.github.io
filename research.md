@@ -23,7 +23,7 @@ A technical paper proposing a conceptual and architectural framework for regulat
 ---
 
 ### Control Probe: Inference-Time Commitment Control
-DOI: <https://doi.org/10.5281/zenodo.18352963>
+DOI: <https://doi.org/10.5281/zenodo.18352962>
 
 A technical paper examining inference-time commitment control mechanisms that regulate model commitment under evaluative degradation and uncertainty in deployed language models.
 
@@ -31,7 +31,7 @@ A technical paper examining inference-time commitment control mechanisms that re
 
 ### Evaluative Coherence Regulation (ECR):  
 ### An Inference-Time Stability Layer for Enterprise LLMs
-DOI: <https://doi.org/10.5281/zenodo.18353477>
+DOI: <https://doi.org/10.5281/zenodo.18353476>
 
 A framework for maintaining evaluative coherence and stability in enterprise-scale large language model deployments through inference-time regulation.
 
