@@ -42,7 +42,7 @@ Formal academic and technical research conducted alongside — and independently
 ## Code
 
 A complete code of the IFCS, ECR and Control Probe Type-1 and Type-2 is available here:  
-(https://github.com/MindtheMachine/IFCS-Implementation)
+https://github.com/MindtheMachine/IFCS-Implementation
 
 ---
 ## About
