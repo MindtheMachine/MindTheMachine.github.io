@@ -16,7 +16,7 @@ The papers listed here focus on inference-time behavior, internal regulation, an
 ## Papers Under Peer Review  
 *(Preprints publicly available via DOI)*
 ### Inference-Time Commitment Shaping: A Framework for Quiet Failure Mitigation in LLM Systems
-DOI: <https://zenodo.org/records/18401074>
+DOI: <https://doi.org/10.5281/zenodo.18401073>
 
 A technical paper proposing a conceptual and architectural framework for regulating commitment strength in large language model outputs. 
 
