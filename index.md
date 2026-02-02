@@ -28,10 +28,10 @@ Formal academic and technical research conducted alongside — and independently
   DOI: <https://doi.org/10.5281/zenodo.18401073>
   
 - **Control Probe: Inference-Time Commitment Control**  
-  DOI: <https://doi.org/10.5281/zenodo.18352963>
+  DOI: <https://doi.org/10.5281/zenodo.18352962>
 
 - **Evaluative Coherence Regulation (ECR): An Inference-Time Stability Layer for Enterprise LLMs**  
-  DOI: <https://doi.org/10.5281/zenodo.18353477>
+  DOI: <https://doi.org/10.5281/zenodo.18353476>
 
 - **Need for More Academic R&D in India**  
   DOI: <https://doi.org/10.2139/ssrn.1097502>
