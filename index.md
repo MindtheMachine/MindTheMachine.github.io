@@ -25,7 +25,7 @@ A complete list of my published articles is maintained here:
 Formal academic and technical research conducted alongside — and independently from — my public writing.
 
 - **Inference-Time Commitment Shaping: A Framework for Quiet Failure Mitigation in LLM Systems**  
-  DOI: https://zenodo.org/records/18401074
+  DOI: https://doi.org/10.5281/zenodo.18401073
   
 - **Control Probe: Inference-Time Commitment Control**  
   DOI: https://doi.org/10.5281/zenodo.18352963
@@ -39,7 +39,12 @@ Formal academic and technical research conducted alongside — and independently
 [View full research details](research.md)
 
 ---
+## Code
 
+A complete code of the IFCS, ECR and Control Probe Type-1 and Type-2 is available here:  
+(https://github.com/MindtheMachine/IFCS-Implementation)
+
+---
 ## About
 
 [View About Me](about.md)
