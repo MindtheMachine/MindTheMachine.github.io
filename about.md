@@ -27,6 +27,7 @@ These ideas are written to invite discussion, particularly with teams building, 
 
 **Professional background and publications**  
 <https://www.linkedin.com/in/carijit/>
+<https://x.com/LearningAIforBI>
 
 **Academic papers and research record (ORCID)**  
 <https://orcid.org/0009-0006-5658-4449>
